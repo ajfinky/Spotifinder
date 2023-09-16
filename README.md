@@ -6,4 +6,4 @@ This repository highlights some of the code I wrote to create Spotifinder, a web
 - SQL
 - JavaScript
 ## Set-Up Guide
-Unfortunately, the servers used to host and run the website have long been shut down, but I still wanted to highlight some of the work I completed for this project, as I very proud of it!
+Unfortunately, the servers used to host and run the website have long been shut down, but I still wanted to highlight some of the work I completed for this project, as I am very proud of it!
